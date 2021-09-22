@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @imaadfakier and I'm a Python developer.
-- 👀 I’m interested in Web Development and Artificial Intelligence.
-- 🌱 I’m currently learning Python and all its libraries as well as frameworks.
+- 👋 Hi, I’m @imaadfakier and I'm a Pythonista.
+- 👀 I’m interested in Artificial Intelligence.
+- 🌱 I specialize in Machine Learning and Data Science.
 - 💞️ I’m looking to collaborate on nothing at the moment, but certainly in future AI projects.
 - 📫 How to reach me: ttkhastalamuerte@gmail.com
 
