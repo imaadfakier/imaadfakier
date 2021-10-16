@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imaadfakier and I'm a Python "Pythonista" Developer.
-- 👀 I’m interested in Artificial Intelligence.
+- 👀 Artificial Intelligence is my passion.
 - 🌱 I specialize in Machine Learning and Data Science.
 - 💞️ I’m looking to collaborate on nothing at the moment, but certainly in future AI projects.
 - 📫 How to reach me: ttkhastalamuerte@gmail.com
