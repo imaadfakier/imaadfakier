@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaadfakier&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=imaadfakier&theme=dracula" />
 
 - 👋 Hi, I’m @imaadfakier and I'm a Python "Pythonista" Developer.
 - 👀 Artificial Intelligence is my passion.
