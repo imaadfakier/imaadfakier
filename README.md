@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing at the moment, but certainly in future AI projects.
 - 📫 How to reach me: ttkhastalamuerte@gmail.com
 
-https://api.daily.dev/devcards/3006cb082214462e845b552b615b7877.png?r=u40
+<a href="https://app.daily.dev/tmk1"><img src="https://api.daily.dev/devcards/3006cb082214462e845b552b615b7877.png?r=u40" width="400" alt="Imaad Fakier's Dev Card"/></a>
 
 <!---
 imaadfakier/imaadfakier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
