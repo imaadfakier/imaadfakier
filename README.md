@@ -1,5 +1,4 @@
 https://profile-summary-for-github.com/user/imaadfakier
-https://octoprofile.vercel.app/user?id=imaadfakier
 
 - 👋 Hi, I’m @imaadfakier and I'm a Python "Pythonista" Developer.
 - 👀 Artificial Intelligence is my passion.
