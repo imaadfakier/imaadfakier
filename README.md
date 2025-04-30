@@ -17,7 +17,7 @@ I'm a **Python Backend Engineer** with a deep love for automation, machine learn
 - Contributor to several open-source and self-hosted automation tools
 
 📫 **Let’s Connect**: ttkhastalamuerte@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/imaadfakier) | [Portfolio](#) | [Resume](#)
+🌐 [LinkedIn](https://www.linkedin.com/in/imaad-fakier-665007203/) | [Portfolio](https://portfolio-web-app-production.up.railway.app)
 
 <!---
 imaadfakier/imaadfakier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
