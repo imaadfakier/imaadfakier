@@ -11,7 +11,7 @@ I'm a **Python Backend Engineer** with a deep love for automation, machine learn
 - Teach and support developers in Python, SQL, and data science
 
 📌 **Highlights:**
-- 5+ years of experience building projects in Python
+- 6+ years of experience building projects in Python
 - Built custom algorithmic trading bots and analytics tools
 - Tutored hundreds of students in Python, SQL, and data science concepts
 - Contributor to several open-source and self-hosted automation tools
