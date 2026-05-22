@@ -1,25 +1,58 @@
-https://profile-summary-for-github.com/user/imaadfakier
-
 # 👋 Hey, I'm Imaad Fakier
 
-I'm a **Python Backend Engineer** with a deep love for automation, machine learning, and AI systems. Over the past few years, I’ve built a portfolio of projects ranging from trading bots and data pipelines to full-stack applications and ML-powered tools.
+I'm building **PureEnergy Systems** — practical AI-enabled workflow systems that turn operational noise into clear, repeatable systems that move work forward.
 
-💡 **What I Do:**
-- Build backend systems using Python, FastAPI, Django, PostgreSQL, and more
-- Develop and deploy automation scripts and AI models
-- Design scalable, testable code for real-world applications
-- Teach and support developers in Python, SQL, and data science
+My work sits at the intersection of **backend engineering, automation, AI systems, workflow design, and operational product thinking**. I build tools that help teams reduce admin drag, structure messy processes, and create clearer paths from input → decision → action.
 
-📌 **Highlights:**
-- 6+ years of experience building projects in Python
-- Built custom algorithmic trading bots and analytics tools
-- Tutored hundreds of students in Python, SQL, and data science concepts
-- Contributor to several open-source and self-hosted automation tools
+## ⚡ What I'm Building
 
-📫 **Let’s Connect**: ttkhastalamuerte@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/imaad-fakier-665007203/) | [Portfolio](https://online-portfolio-design.fly.dev/)
+### PureEnergy Systems
+AI-enabled operational workflows for:
 
-<!---
-imaadfakier/imaadfakier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Inbox triage and decision support
+- Client onboarding and handoff systems
+- Workflow automation
+- Structured task and ownership tracking
+- Human-in-the-loop AI tools
+- Reliable fallback behavior where AI output needs boundaries
+
+Website: [pureenergy.systems](https://www.pureenergy.systems)
+
+## 🛠️ Technical Focus
+
+- Python backend systems
+- FastAPI, Django, and API design
+- PostgreSQL and structured data modelling
+- Automation scripts and workflow tooling
+- AI-assisted classification, summarisation, and decision support
+- Product-focused frontend builds with Next.js and Tailwind
+- Clean, practical systems designed for real-world use
+
+## 📌 Current Portfolio Work
+
+I’m currently developing public-facing portfolio case studies under PureEnergy Systems, including:
+
+- **PureEnergy Inbox Intelligence**  
+  Executive inbox triage, priority routing, action extraction, and controlled draft response support.
+
+- **Onboarding Command Center**  
+  Structured client onboarding workflow orchestration with handoff gates, document states, task ownership, and delivery readiness tracking.
+
+These are sanitised portfolio demonstrations designed to show product thinking, system architecture, and operational AI capability without exposing private implementation details.
+
+## 🧠 How I Think About Systems
+
+Good automation should not make a business more fragile.
+
+My focus is on building systems that are:
+
+- Clear before they are automated
+- Useful before they are complex
+- Reliable before they are impressive
+- Structured enough to support people, not replace judgment
+- Practical enough to move real work forward
+
+## 📫 Connect
+
+- Website: [pureenergy.systems](https://www.pureenergy.systems)
+- LinkedIn: [Imaad Fakier](https://www.linkedin.com/in/imaad-fakier/)
